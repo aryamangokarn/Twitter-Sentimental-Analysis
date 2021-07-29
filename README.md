@@ -3,7 +3,7 @@
 Text Classification is a process involved in Sentiment Analysis. It is classification of peoples opinion or expressions into different sentiments. Sentiments in this dataset  include Positive, Neutral, and Negative. Sentiment Analysis can be done on different consumer centered industries to analyse people's opinion on a particular product or subject.
 </br>
 <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/88145926/127522066-7ba5bbcc-437a-403e-91e0-95f43cf71615.png">
+  <img  src="https://user-images.githubusercontent.com/88145926/127522066-7ba5bbcc-437a-403e-91e0-95f43cf71615.png">
 </p>
 
 ## Project Description
@@ -16,5 +16,5 @@ Text Classification is a process involved in Sentiment Analysis. It is classific
 - Future Scope: The accuracy can still be optimized based on the Hyper Parameter Tuning to fit the model much better over the testing data.
 
 <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/88145926/127526841-02939343-5c64-4421-89e4-27e90647d3fa.PNG">
+  <img  src="https://user-images.githubusercontent.com/88145926/127526841-02939343-5c64-4421-89e4-27e90647d3fa.PNG">
 </p>
