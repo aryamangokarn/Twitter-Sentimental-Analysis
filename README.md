@@ -6,13 +6,12 @@ Text Classification is a process involved in Sentiment Analysis. It is classific
   <img width="460" height="300" src="https://user-images.githubusercontent.com/88145926/127522066-7ba5bbcc-437a-403e-91e0-95f43cf71615.png">
 </p>
 
-</br>
 ## Project Description
 - A Sentimental Analysis model using Natural Language Processing. The dataset contains 1.6 million twitter comments of the users which can be downloaded from [Twitter-Dataset](training.1600000.processed.noemoticon.csv). 
 - The Preprocessing involves cleaning texts by removing non-alphabetical characters and stopwords. We used porter stemmer for removing the commoner morphological and inflexional endings from words. 
 - Performed train test split and generated Bag of Words model on the training set.The bag-of-words model is a simplifying representation used in natural language processing and information retrieval (IR). In this model, a text (such as a sentence or a document) is represented as the bag (multiset) of its words, disregarding grammar and even word order but keeping multiplicity. The bag-of-words model has also been used for computer vision.
-- 
-</br>
+
+
 ## Accuracy 
 - Future Scope: The accuracy can still be optimized based on the Hyper Parameter Tuning to fit the model much better over the testing data.
 
